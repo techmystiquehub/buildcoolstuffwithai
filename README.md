@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Build Cool Stuff with AI" width="800"/>
+  <img src="image (3).png" alt="Build Cool Stuff with AI" width="800"/>
 </p>
 
 ## 👋 Hi, I’m Victor (TechMystique)
