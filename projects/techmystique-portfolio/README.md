@@ -2,7 +2,8 @@
 
 [Live Demo](https://techmystique.vercel.app)
 
-A modern portfolio website built with **Vue.js**.
+A modern portfolio website built with **Vue.js**.  
+_This project was generated using [Google AI Studio](https://aistudio.google.com/)._
 
 ## 🚀 Getting Started
 
